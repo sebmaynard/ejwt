@@ -1,7 +1,7 @@
 {application, ejwt,
     [
         {description, "Encode/decode JSON Web Token"},
-        {vsn, git},
+        {vsn, "1.0"},
         {registered, [ejwt]},
         {applications, [
             kernel,
